@@ -16,7 +16,23 @@ p, ul {
     color: #110000
 }
 
+table {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color:#110000;
+    border-spacing: 0 2px;
+}
+
+#päis {
+    background-color: #ffff76;
+}
+
+td {
+    font-weight:300;
+}
+
 img {
     border: 2px solid #550000;
     
 }
+
