@@ -1,30 +1,30 @@
 h1 {
     font-family:Arial, Helvetica, sans-serif;
     font-size: 30px;
-    color: #210021
+    color: #490b3d
 }
 
 h2 {
     font-family:Arial, Helvetica, sans-serif;
     font-size: 20px;
-    color: #210021
+    color: #490b3d
 }
 
 p, ul {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 15px;
-    color: #110000
+    color: #490b3d
 }
 
 table {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 15px;
-    color:#110000;
+    color:#490b3d;
     border-spacing: 0 2px;
 }
 
 #päis {
-    background-color: #ffff76;
+    background-color: #f1b814;
 }
 
 td {
@@ -32,7 +32,10 @@ td {
 }
 
 img {
-    border: 2px solid #550000;
+    border: 2px solid #490b3d;
     
 }
 
+body {
+    background-color: #fff9ee;
+}
