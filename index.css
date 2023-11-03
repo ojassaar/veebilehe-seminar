@@ -3,3 +3,9 @@ h1 {
     font-size: 30px;
     color: #210021
 }
+
+p {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: #110000
+}
