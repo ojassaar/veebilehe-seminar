@@ -39,3 +39,11 @@ img {
 body {
     background-color: #fff9ee;
 }
+
+.rida {
+    display:flex
+}
+
+.tulp {
+    flex:50%
+}
